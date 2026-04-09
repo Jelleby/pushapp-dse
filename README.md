@@ -29,5 +29,5 @@ We may employ third-party companies (such as Expo for notifications and updates)
 PushApp does not knowingly collect personally identifiable information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
 
 7. Contact Us
-If you have any questions about this Privacy Policy, You can contact us via email at: support@pushapp.com
+If you have any questions about this Privacy Policy, You can contact us via email at: pushapp@jelleby.de
 
